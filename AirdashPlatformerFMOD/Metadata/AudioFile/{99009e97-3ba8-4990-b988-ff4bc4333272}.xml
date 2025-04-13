@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{99009e97-3ba8-4990-b988-ff4bc4333272}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/XBOX/DIDDY KONG RACING (XBOX)/Characters/Xbox - Diddy Kong Racing Adventure - Characters/Character#13.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.157437641723356</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

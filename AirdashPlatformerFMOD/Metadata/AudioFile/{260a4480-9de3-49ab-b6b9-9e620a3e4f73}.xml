@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{260a4480-9de3-49ab-b6b9-9e620a3e4f73}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX/PLAYSTATION/PARTY GIRLS (PS2)/Riho Futaba/CHR_5_14.HBS_00003.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>3.5504761904761906</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

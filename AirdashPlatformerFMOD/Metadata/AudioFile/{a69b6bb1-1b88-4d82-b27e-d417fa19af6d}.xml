@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{a69b6bb1-1b88-4d82-b27e-d417fa19af6d}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX/PLAYSTATION/PARTY GIRLS (PS2)/Kana Momozono/CHR_6_10.HBS_00001.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.53841269841269845</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

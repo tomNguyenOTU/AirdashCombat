@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c21d1ea5-f3ec-4c7d-9c39-7d2fd56fa0aa}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/NINTENDO/LOONEY TUNES 2PACK (GBA)/Looney Tunes Double Pack SFX/Unknown/64.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>12</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.54574999999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

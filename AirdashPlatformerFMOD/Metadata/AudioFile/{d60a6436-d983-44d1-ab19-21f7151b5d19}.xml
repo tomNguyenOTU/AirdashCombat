@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{d60a6436-d983-44d1-ab19-21f7151b5d19}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/NINTENDO/LOONEY TUNES 2PACK (GBA)/Looney Tunes Double Pack SFX/Wile E.'s Tornado.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>12</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2.4728333333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{b1b22cb6-2499-4e4a-8e21-1566bcf4f0d5}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX/NINTENDO/PAPER MARIO (N64)/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

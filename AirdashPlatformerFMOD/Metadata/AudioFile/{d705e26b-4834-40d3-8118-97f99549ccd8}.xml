@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{d705e26b-4834-40d3-8118-97f99549ccd8}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/PLAYSTATION/BATMAN - RISE OF SIN TZU (PS2)/Dialogue/MAPS_00065.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.3688888888888888</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

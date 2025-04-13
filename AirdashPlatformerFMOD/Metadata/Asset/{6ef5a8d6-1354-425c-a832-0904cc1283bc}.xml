@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{6ef5a8d6-1354-425c-a832-0904cc1283bc}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/PLAYSTATION/HERCULES (PS1)/Voices/Meg/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

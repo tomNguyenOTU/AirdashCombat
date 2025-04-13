@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{645081e1-cd07-4ff4-8905-6197943c9960}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/PLAYSTATION/UNDERWORLD THE ETERNAL WAR (PS2)/OLD-MP5FIRE.WAV</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.17015873015873015</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

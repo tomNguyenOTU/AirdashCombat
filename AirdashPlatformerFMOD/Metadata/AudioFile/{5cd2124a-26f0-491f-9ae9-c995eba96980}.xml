@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{5cd2124a-26f0-491f-9ae9-c995eba96980}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/PLAYSTATION/OMEGA BOOST (PS1)/SFX/SceneSpecific/Breifing1/SE_BRI1_00006.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>32</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.52500000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

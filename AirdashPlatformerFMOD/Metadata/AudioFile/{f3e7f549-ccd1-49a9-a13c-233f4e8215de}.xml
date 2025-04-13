@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{f3e7f549-ccd1-49a9-a13c-233f4e8215de}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX/SEGA/A BUGS LIFE (GENESIS)/Landing.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>7.03700018</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.07560039789683104</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

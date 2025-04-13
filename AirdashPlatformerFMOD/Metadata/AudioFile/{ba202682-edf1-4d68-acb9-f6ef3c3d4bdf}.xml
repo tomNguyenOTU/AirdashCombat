@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{ba202682-edf1-4d68-acb9-f6ef3c3d4bdf}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX/SEGA/HELLO KITTY MAGICAL BLOCK (DREAMCAST)/Sound Effects/NO.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.64580498866213154</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

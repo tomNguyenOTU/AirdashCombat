@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{eee0c6b5-1e33-49ba-9fb3-3e8efca35ab5}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/NINTENDO/LOONEY TUNES 2PACK (GBA)/Looney Tunes Double Pack SFX/Wile E's Bed Springs.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>12</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.44741666666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

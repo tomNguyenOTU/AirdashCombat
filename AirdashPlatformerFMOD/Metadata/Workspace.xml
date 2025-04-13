@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="Workspace" id="{21c4426b-d5d7-49f1-8b4b-3058c77d7b13}">
+		<property name="builtBanksOutputDirectory">
+			<value>C:/Users/xenon/OneDrive/Documents/Unreal Projects/AirdashCombat/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{62a19e1d-6a42-4790-93f1-db36f57594b0}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{1d485b2e-27e4-499b-a350-722056401d36}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{d2a24cc2-174d-4de4-ab70-1169bbcfd2ea}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{3e5733d0-56ff-4413-a706-85333ac9939f}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{5cb35566-185f-495d-8ce0-6aff84600c75}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{547678ca-f520-48f7-b2ae-dfdf74b9fccb}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{7d68ca90-a7a2-4d00-a565-d68b142bb3a2}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{68b335e5-109d-49c4-8d84-5c1dd48c8000}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{0a88e728-80fb-4ca6-8d24-7a97b8dc2f41}</destination>
+		</relationship>
+	</object>
+</objects>

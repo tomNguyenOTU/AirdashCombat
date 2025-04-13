@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{8b5b194c-e90e-4c31-ad2c-abb5d5a46dab}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/XBOX/FEEDING FRENZY (360)/Other/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{ad7bf9d0-9ba2-42b9-9d2f-b9bc3e58c0dc}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX/NINTENDO/PAPER MARIO (N64)/BANK_1A_INSTR_0000_SND_0000.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.11755102040816326</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

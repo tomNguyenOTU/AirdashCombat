@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{1fd04bf6-5b63-47c4-af44-df73d694807f}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/XBOX/MEGA MAN 10 (360)/MM10 SFX/SE [96].wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.1829987</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.69529004368195912</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

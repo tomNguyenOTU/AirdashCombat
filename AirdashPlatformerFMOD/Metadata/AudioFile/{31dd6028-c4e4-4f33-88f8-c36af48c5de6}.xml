@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{31dd6028-c4e4-4f33-88f8-c36af48c5de6}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/XBOX/DRAKE OF THE 99 DRAGONS (XBOX)/Drake of the 99 Dragons/gun_1a.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.69804988662131517</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

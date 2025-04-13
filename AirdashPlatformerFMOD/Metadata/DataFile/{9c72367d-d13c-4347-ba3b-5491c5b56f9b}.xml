@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{9c72367d-d13c-4347-ba3b-5491c5b56f9b}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX/NINTENDO/DOOM 64/All_SFX/SNDQUAKE.wav</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

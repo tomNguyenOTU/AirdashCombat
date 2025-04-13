@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{9b11cf3f-b09b-4a92-a8fd-c1929a10ea9c}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/XBOX/DIDDY KONG RACING (XBOX)/Vehicles/Xbox - Diddy Kong Racing Adventure - Vehicles/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

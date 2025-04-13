@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{591b40a3-59f4-4f44-a2b1-a0295a2b7f6a}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX/NINTENDO/SPEEDY GONZALES (SNES)/Speedy Gonzales/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

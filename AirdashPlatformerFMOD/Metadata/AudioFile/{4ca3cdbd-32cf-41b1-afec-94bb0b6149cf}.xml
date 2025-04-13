@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{4ca3cdbd-32cf-41b1-afec-94bb0b6149cf}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/XBOX/DRAKE OF THE 99 DRAGONS (XBOX)/Drake of the 99 Dragons/wagonrumble01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>8</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2.8792499999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

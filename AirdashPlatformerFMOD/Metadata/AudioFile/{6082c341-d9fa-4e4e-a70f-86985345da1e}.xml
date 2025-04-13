@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{6082c341-d9fa-4e4e-a70f-86985345da1e}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/XBOX/DRAKE OF THE 99 DRAGONS (XBOX)/Drake of the 99 Dragons/clothrip01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>5</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.66559999999999997</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

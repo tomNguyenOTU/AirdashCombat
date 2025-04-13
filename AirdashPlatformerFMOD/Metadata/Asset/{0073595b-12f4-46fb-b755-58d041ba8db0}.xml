@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{0073595b-12f4-46fb-b755-58d041ba8db0}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/XBOX/AMF BOWLING 2004 (XBOX)/Sound Effects/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

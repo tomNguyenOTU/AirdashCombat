@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{1d899a65-cf3f-4bd7-b3a3-6121a945d24f}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/XBOX/BASS PRO SHOPS TROPHY BASS 2007 (XBOX)/Announcer/IG24.WAV</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.0753741496598639</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{bd48e4e5-d177-460c-bf38-93a4ee8ae388}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX/NINTENDO/TAMAGOTCHI (GAMEBOY)/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

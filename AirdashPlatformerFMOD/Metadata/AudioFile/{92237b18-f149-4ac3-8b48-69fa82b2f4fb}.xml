@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{92237b18-f149-4ac3-8b48-69fa82b2f4fb}">
+		<property name="assetPath">
+			<value>SFXPackages/RAREVGSFX 2/XBOX/DRAKE OF THE 99 DRAGONS (XBOX)/Drake of the 99 Dragons/smg_unload.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.33814058956916099</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>
