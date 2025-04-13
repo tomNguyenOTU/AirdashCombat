@@ -1,3 +1,11 @@
+# FMOD Studio cache and build files
+AirdashPlatformerFMOD/.cache/
+AirdashPlatformerFMOD/Build/
+AirdashPlatformerFMOD/.workspace
+AirdashPlatformerFMOD/.user
+AirdashPlatformerFMOD/*.log
+AirdashPlatformerFMOD/.lock
+
 
 # plugin docs
 Plugins/**/Docs/*
