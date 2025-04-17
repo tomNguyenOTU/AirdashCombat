@@ -12,6 +12,8 @@ O - dash
 
 P - attack (hold for heavy)
 
+ESC/Backspace - pause
+
 --------------
 
 controls (controller, xbox layout)
@@ -25,3 +27,5 @@ B - jump
 LB/A - dash
 
 RB/X/Y - attack (hold for heavy)
+
+Start/Select - pause (button name kinda depends on controller, you know what i mean)
