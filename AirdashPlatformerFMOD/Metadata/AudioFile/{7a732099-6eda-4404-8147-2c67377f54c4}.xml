@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{7a732099-6eda-4404-8147-2c67377f54c4}">
+		<property name="assetPath">
+			<value>PLACEHOLDER/SFX/SUPER SMASH BROS (64)/SFX/Fox - Shield Deflect.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>32.0060005</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3939573829906893</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

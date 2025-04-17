@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{e97d8678-574b-49c5-9c7d-496d05b8d394}">
+		<property name="assetPath">
+			<value>PLACEHOLDER/SFX/SUPER SMASH BROS (64)/SFX/Beam Sword Whiff 2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>32.0060005</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.82000249953133786</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{e10443e5-78a9-45a6-9199-d46c3839b343}">
+		<property name="assetPath">
+			<value>PLACEHOLDER/SFX/SUPER SMASH BROS (64)/VOICES/Pikachu 6.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>32.0060005</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.96166343810535526</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

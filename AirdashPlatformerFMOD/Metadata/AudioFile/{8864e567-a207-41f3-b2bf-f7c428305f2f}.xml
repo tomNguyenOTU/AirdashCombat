@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{8864e567-a207-41f3-b2bf-f7c428305f2f}">
+		<property name="assetPath">
+			<value>PLACEHOLDER/SFX/SUPER SMASH BROS (64)/VOICES/Link 8.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>32.0060005</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.1794975942010873</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>

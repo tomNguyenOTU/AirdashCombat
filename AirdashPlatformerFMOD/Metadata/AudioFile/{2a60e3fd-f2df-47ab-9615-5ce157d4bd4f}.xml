@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{2a60e3fd-f2df-47ab-9615-5ce157d4bd4f}">
+		<property name="assetPath">
+			<value>PLACEHOLDER/SFX/SUPER SMASH BROS (64)/VOICES/Luigi 2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>32.0060005</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.069455727051178</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce90175b-3282-4b57-a88a-a86b80b7815a}</destination>
+		</relationship>
+	</object>
+</objects>
