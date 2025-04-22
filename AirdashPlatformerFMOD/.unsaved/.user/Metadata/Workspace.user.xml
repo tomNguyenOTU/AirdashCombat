@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="Workspace" id="{21c4426b-d5d7-49f1-8b4b-3058c77d7b13}">
+		<relationship name="projectSettings">
+			<destination>{6658c566-009e-45fe-833a-41a988100fb7}</destination>
+		</relationship>
+		<relationship name="changelist">
+			<destination>{eeda5b15-54b0-4d34-9644-d06d2a136f20}</destination>
+		</relationship>
+	</object>
+	<object class="ProjectSettings" id="{6658c566-009e-45fe-833a-41a988100fb7}">
+		<property name="openWindows">
+			<value>Mixer 1</value>
+		</property>
+		<property name="windowLayout">
+			<value>AAAABAAAABYAQQB1AGQAaQBvACAAQgBpAG4AIAAxAAAAQgHZ0MsAAwAAAAACUgAAAG4AAAPhAAADXAAAAlIAAACNAAAD4QAAA1wAAAAAAAAAAAeAAAACUgAAAI0AAAPhAAADXAAAABwARQB2AGUAbgB0ACAARQBkAGkAdABvAHIAIAAxAAAAQgHZ0MsAAwAAAAAAAP////gAAAd/AAAEDwAAARQAAAFOAAAFMwAAA/YAAAAAAgAAAAeAAAAAAAAAABcAAAd/AAAEDwAAAA4ATQBpAHgAZQByACAAMQAAAEIB2dDLAAMAAAAAAAD////4AAAHfwAABA8AAAHsAAAAlAAABnkAAANjAAAAAAIAAAAHgAAAAAAAAAAXAAAHfwAABA8AAAAeAE0AaQB4AGUAcgAgAFIAbwB1AHQAaQBuAGcAIAAxAAAAQgHZ0MsAAwAAAAADUgAAAGcAAAThAAADVQAAA1IAAACGAAAE4QAAA1UAAAAAAAAAAAeAAAADUgAAAIYAAAThAAADVQ==</value>
+		</property>
+		<relationship name="activePlatform">
+			<destination>{0a88e728-80fb-4ca6-8d24-7a97b8dc2f41}</destination>
+		</relationship>
+	</object>
+	<object class="WorkspaceChangelist" id="{eeda5b15-54b0-4d34-9644-d06d2a136f20}" />
+</objects>
